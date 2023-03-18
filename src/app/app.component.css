@@ -1,0 +1,19 @@
+.colorViolet{
+  background-color: blueviolet;
+  color:ghostwhite;
+}
+.colorGreen{
+  background-color: darkgreen;
+  color:ghostwhite;
+}
+
+.colorRed{
+  background-color: crimson;
+  color:ghostwhite;
+}
+
+
+.colorWhite{
+  background-color: ghostwhite;
+  color:lightslategray;
+}
