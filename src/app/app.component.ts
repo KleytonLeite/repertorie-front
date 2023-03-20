@@ -3,23 +3,40 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'],
+  styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
   color: String = 'colorViolet';
+  colorFooter: String = 'colorFooterViolet';
   title = 'repertorie-front';
-  data: any;
+  toolbar: any;
+  footer: any;
 
-  troca() {
-    this.data = document.querySelector('body > app-root > mat-toolbar');
-    if (this.data.value == 'colorViolet') {
-      this.color = 'colorGreen';
-    } else {
-      this.color = 'colorViolet';
+  changeTheme() {
+    this.toolbar = document.querySelector('body > app-root > mat-toolbar');
+    this.footer = document.querySelector('body > app-root > app-footer > div');
+    switch (this.toolbar.value) {
+      case 'colorViolet':
+        this.color = 'colorGreen';
+        this.colorFooter = 'colorFooterGreen';
+        break;
+      case 'colorGreen':
+        this.color = 'colorRed';
+        this.colorFooter = 'colorFooterRed';
+        break;
+      case 'colorRed':
+        this.color = 'colorWhite';
+        this.colorFooter = 'colorFooterWhite';
+        break;
+      case 'colorWhite':
+        this.color = 'colorViolet';
+        this.colorFooter = 'colorFooterViolet';
+        break;
     }
-    this.data!.value = this.color;
+    this.toolbar!.value = this.color;
+    this.footer!.value = this.colorFooter;
 
-    console.log(this.data);
+    // console.log(this.data);
     //this.color = 'colorGreen';
   }
 }

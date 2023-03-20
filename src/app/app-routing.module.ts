@@ -5,8 +5,8 @@ import { PageErrorComponent } from './page-error/page-error.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
-  { path: '**', component: PageErrorComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' },
+  { path: '**', component: PageErrorComponent },
 ];
 
 @NgModule({

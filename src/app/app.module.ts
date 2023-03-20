@@ -7,11 +7,14 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { MatCardModule } from '@angular/material/card';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatMenuModule } from '@angular/material/menu';
+import { MatIconModule } from '@angular/material/icon';
 
 import { AppComponent } from './app.component';
 import { AngularFlexLayoutComponent } from './angular-flex-layout/angular-flex-layout.component';
 import { HomeComponent } from './home/home.component';
 import { PageErrorComponent } from './page-error/page-error.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +22,7 @@ import { PageErrorComponent } from './page-error/page-error.component';
     AngularFlexLayoutComponent,
     HomeComponent,
     PageErrorComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
@@ -27,6 +31,8 @@ import { PageErrorComponent } from './page-error/page-error.component';
     FlexLayoutModule,
     MatCardModule,
     MatToolbarModule,
+    MatMenuModule,
+    MatIconModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
