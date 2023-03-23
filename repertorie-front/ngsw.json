@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679601949716,
+  "timestamp": 1679603076851,
   "index": "https://github.com/KleytonLeite/repertorie-front.git/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/KleytonLeite/repertorie-front.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/KleytonLeite/repertorie-front.git/index.html": "933201392671812509d53477e758f488a9be8d2f",
+    "https://github.com/KleytonLeite/repertorie-front.git/index.html": "83550603cfc462a71688e191b61e693e69354fab",
     "https://github.com/KleytonLeite/repertorie-front.git/main.5cfdf8a2360391a9.js": "86a6789cc31ff53413682e75b882047c5b561b79",
     "https://github.com/KleytonLeite/repertorie-front.git/manifest.webmanifest": "3af56f2b9d2f5cf78ef77f565353b27ec806feec",
     "https://github.com/KleytonLeite/repertorie-front.git/polyfills.fee72a941a8526ca.js": "1ca8383bf4f4ea9137c5045eef5723ebafec9f0e",
