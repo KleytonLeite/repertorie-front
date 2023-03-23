@@ -24,6 +24,8 @@ import { PageErrorComponent } from './page-error/page-error.component';
 import { FooterComponent } from './footer/footer.component';
 import { NavigationComponent } from './shared/navigation/navigation.component';
 import { RepertorieComponent } from './pages/repertorie/repertorie.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -50,6 +52,12 @@ import { RepertorieComponent } from './pages/repertorie/repertorie.component';
     MatFormFieldModule,
     MatDatepickerModule,
     MatRadioModule,
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: environment.production,
+      // Register the ServiceWorker as soon as the app is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
+    }),
   ],
   providers: [],
   bootstrap: [AppComponent],
