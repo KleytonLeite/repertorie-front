@@ -7,19 +7,19 @@
       <button mat-menu-item [matMenuTriggerFor]="settings">
         <mat-icon>settings_applications</mat-icon><span class="span">Settings</span>
       </button>
-      <button mat-menu-item [matMenuTriggerFor]="perfil">
+      <!-- <button mat-menu-item [matMenuTriggerFor]="perfil">
         <mat-icon>assignment_ind</mat-icon><span class="span">Perfil</span>
-      </button>
+      </button> -->
     </mat-menu>
 
     <mat-menu #settings="matMenu">
       <button mat-menu-item [matMenuTriggerFor]="theme">Tema</button>
-      <button mat-menu-item [matMenuTriggerFor]="ajuste">Ajuste</button>
+      <!-- <button mat-menu-item [matMenuTriggerFor]="ajuste">Ajuste</button> -->
     </mat-menu>
-    <mat-menu #perfil="matMenu">
+    <!-- <mat-menu #perfil="matMenu">
       <button mat-menu-item [matMenuTriggerFor]="login">Tema</button>
       <button mat-menu-item [matMenuTriggerFor]="sair">Ajuste</button>
-    </mat-menu>
+    </mat-menu> -->
     <mat-menu #theme="matMenu">
       <mat-radio-group
         aria-labelledby="example-radio-group-label"
@@ -37,7 +37,7 @@
       </mat-radio-group>
     </mat-menu>
 
-    <mat-menu #ajuste="matMenu">
+    <!-- <mat-menu #ajuste="matMenu">
       <button mat-menu-item>Tela</button>
       <button mat-menu-item>App</button>
     </mat-menu>
@@ -48,7 +48,7 @@
 
     <mat-menu #sair="matMenu">
       <button mat-menu-item>Sair</button>
-    </mat-menu>
+    </mat-menu> -->
 </mat-toolbar>
 <app-angular-flex-layout></app-angular-flex-layout>
 <div class="{{ colorFooter }}">
