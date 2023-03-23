@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1679603076851,
-  "index": "https://github.com/KleytonLeite/repertorie-front.git/index.html",
+  "timestamp": 1679603647415,
+  "index": "/repertorie-front/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/KleytonLeite/repertorie-front.git/favicon.ico",
-        "https://github.com/KleytonLeite/repertorie-front.git/index.html",
-        "https://github.com/KleytonLeite/repertorie-front.git/main.5cfdf8a2360391a9.js",
-        "https://github.com/KleytonLeite/repertorie-front.git/manifest.webmanifest",
-        "https://github.com/KleytonLeite/repertorie-front.git/polyfills.fee72a941a8526ca.js",
-        "https://github.com/KleytonLeite/repertorie-front.git/runtime.df5ea91303763ccb.js",
-        "https://github.com/KleytonLeite/repertorie-front.git/styles.eb1fe2927528f2bf.css"
+        "/repertorie-front/favicon.ico",
+        "/repertorie-front/index.html",
+        "/repertorie-front/main.5cfdf8a2360391a9.js",
+        "/repertorie-front/manifest.webmanifest",
+        "/repertorie-front/polyfills.fee72a941a8526ca.js",
+        "/repertorie-front/runtime.df5ea91303763ccb.js",
+        "/repertorie-front/styles.eb1fe2927528f2bf.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-128x128.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-144x144.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-152x152.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-192x192.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-384x384.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-512x512.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-72x72.png",
-        "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-96x96.png"
+        "/repertorie-front/assets/icons/icon-128x128.png",
+        "/repertorie-front/assets/icons/icon-144x144.png",
+        "/repertorie-front/assets/icons/icon-152x152.png",
+        "/repertorie-front/assets/icons/icon-192x192.png",
+        "/repertorie-front/assets/icons/icon-384x384.png",
+        "/repertorie-front/assets/icons/icon-512x512.png",
+        "/repertorie-front/assets/icons/icon-72x72.png",
+        "/repertorie-front/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://github.com/KleytonLeite/repertorie-front.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://github.com/KleytonLeite/repertorie-front.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/KleytonLeite/repertorie-front.git/index.html": "83550603cfc462a71688e191b61e693e69354fab",
-    "https://github.com/KleytonLeite/repertorie-front.git/main.5cfdf8a2360391a9.js": "86a6789cc31ff53413682e75b882047c5b561b79",
-    "https://github.com/KleytonLeite/repertorie-front.git/manifest.webmanifest": "3af56f2b9d2f5cf78ef77f565353b27ec806feec",
-    "https://github.com/KleytonLeite/repertorie-front.git/polyfills.fee72a941a8526ca.js": "1ca8383bf4f4ea9137c5045eef5723ebafec9f0e",
-    "https://github.com/KleytonLeite/repertorie-front.git/runtime.df5ea91303763ccb.js": "d29d63d0d1f08b44d78da63a978d55e201609c8f",
-    "https://github.com/KleytonLeite/repertorie-front.git/styles.eb1fe2927528f2bf.css": "2a7f5f6e3da219695a6defe26d137ce7b2a3b858"
+    "/repertorie-front/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/repertorie-front/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/repertorie-front/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/repertorie-front/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/repertorie-front/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/repertorie-front/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/repertorie-front/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/repertorie-front/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/repertorie-front/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/repertorie-front/index.html": "f899529aa9998539a85e78953dfae9c0b6116bcd",
+    "/repertorie-front/main.5cfdf8a2360391a9.js": "86a6789cc31ff53413682e75b882047c5b561b79",
+    "/repertorie-front/manifest.webmanifest": "3af56f2b9d2f5cf78ef77f565353b27ec806feec",
+    "/repertorie-front/polyfills.fee72a941a8526ca.js": "1ca8383bf4f4ea9137c5045eef5723ebafec9f0e",
+    "/repertorie-front/runtime.df5ea91303763ccb.js": "d29d63d0d1f08b44d78da63a978d55e201609c8f",
+    "/repertorie-front/styles.eb1fe2927528f2bf.css": "2a7f5f6e3da219695a6defe26d137ce7b2a3b858"
   },
   "navigationUrls": [
     {
