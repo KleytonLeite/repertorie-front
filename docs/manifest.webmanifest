@@ -1,6 +1,8 @@
 {
   "name": "repertorie-front",
   "short_name": "repertorie-front",
+  "theme_color": "#8a2be2",
+  "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
