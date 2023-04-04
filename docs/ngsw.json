@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1680629627232,
+  "timestamp": 1680629997489,
   "index": "/repertorie-front/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/repertorie-front/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/repertorie-front/index.html": "b4831afaabef42394db5c80a19cf982a71fadc81",
     "/repertorie-front/main.5cfdf8a2360391a9.js": "86a6789cc31ff53413682e75b882047c5b561b79",
-    "/repertorie-front/manifest.webmanifest": "3af56f2b9d2f5cf78ef77f565353b27ec806feec",
+    "/repertorie-front/manifest.webmanifest": "322deb60c9aa331f264fa0b8dc47c7951679db69",
     "/repertorie-front/polyfills.fee72a941a8526ca.js": "1ca8383bf4f4ea9137c5045eef5723ebafec9f0e",
     "/repertorie-front/runtime.df5ea91303763ccb.js": "d29d63d0d1f08b44d78da63a978d55e201609c8f",
     "/repertorie-front/styles.eb1fe2927528f2bf.css": "2a7f5f6e3da219695a6defe26d137ce7b2a3b858"
